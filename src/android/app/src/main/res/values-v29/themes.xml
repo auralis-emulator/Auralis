@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <style name="Theme.V29.Auralis" parent="Theme.Auralis">
-        <item name="android:enforceStatusBarContrast">false</item>
-        <item name="android:enforceNavigationBarContrast">false</item>
-    </style>
-
-    <style name="Theme.Auralis.Main" parent="Theme.V29.Auralis" />
-</resources>

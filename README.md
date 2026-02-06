@@ -54,9 +54,7 @@ cd src/android
 ---
 ## 🧬 Project Lineage
 
-Auralis is derived from the open-source **Auralis** project, which itself
-originated as a fork of **Citra**.
-
+Auralis is derived from the open-source **Citra** project.
 All upstream licenses and third-party attributions are preserved in
 accordance with the GNU General Public License.
 

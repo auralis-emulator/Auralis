@@ -1,0 +1,9 @@
+// Copyright 2023 Auralis Emulator Project
+// Licensed under GPLv2 or any later version
+// Refer to the license.txt file included.
+
+package com.auralis.emulator.features.settings.model
+
+interface AbstractFloatSetting : AbstractSetting {
+    var float: Float
+}
